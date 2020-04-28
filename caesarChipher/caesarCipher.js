@@ -1,14 +1,10 @@
 const caesarChipher = (str, num) => {
   return str
     .replace(/[a-z]/g, (m) => {
-      let code = m.charCodeAt(0) + num;
-      code = code > 122 ? (code -= 26) : code;
-      return String.fromCharCode(code);
+      return String.fromCharCode((m.charCodeAt(0) + num - 97) % 26 + 97);
     })
     .replace(/[A-Z]/g, (m) => {
-      let code = m.charCodeAt(0) + num;
-      code = code > 90 ? (code -= 26) : code;
-      return String.fromCharCode(code);
+      return String.fromCharCode((m.charCodeAt(0) + num - 65) % 26 + 65);
     });
 };
 
