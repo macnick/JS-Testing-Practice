@@ -57,7 +57,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse for giving us the opportunity
-- Out great TSE for the review
+- Our great TSE for the code review
 
 ## 📝 License
 
