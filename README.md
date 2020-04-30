@@ -1,6 +1,6 @@
-# Project Name
+# Javascript Testing
 
-> One paragraph statement about the project.
+> Practice testing javascript functions using jest testing framework.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,50 +8,41 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Javascript ES6,
+- jest
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple steps.
 
-
-To get a local copy up and running follow these simple example steps.
+1. `git clone https://github.com/macnick/JS-Testing-Practice.git`
+2. `cd JS-Testing-Practice`
+3. `npm i`
+4. `npm run test`
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
+1. Node installation
 
 ### Run tests
 
-### Deployment
-
-
+1. `npm run test`
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@addod19](https://github.com/addod19)
+- Twitter: [@DanielLarbiAdd1](https://twitter.com/DanielLarbiAdd1)
+- Linkedin: [Daniel Larbi Addo](https://linkedin.com/in/daniel-larbi-addo-9738b0128/)
+- Email: [Daniel Larbi Addo](addodaniellarbi@gmail.com)
 
 👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@macnick](https://github.com/macnick)
+- Twitter: [@mac_experts](https://twitter.com/mac_experts)
+- Linkedin: [Nick Haralampopoulos](https://www.linkedin.com/in/nick-haralampopoulos/)
+- Email: [Nick Haralampopoulos](mac.expert.nick@gmail.com)
 
 ## 🤝 Contributing
 
@@ -65,10 +56,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse for giving us the opportunity
+- Out great TSE for the review
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](LICENSE) licensed.
