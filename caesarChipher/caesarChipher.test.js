@@ -19,3 +19,7 @@ test("Should work for empty strings", () => {
 test("Should return the same string if n is zero", () => {
   expect(caesarChipher("Nick", 0)).toMatch("Nick");
 });
+
+test("Should handle no arguments", () => {
+  expect(caesarChipher()).toMatch("");
+});
